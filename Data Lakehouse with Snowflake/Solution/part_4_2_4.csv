@@ -1,0 +1,52 @@
+CATEGORY_TITLE,POPULARITY,CT_COUNT
+Sports,1,1
+People & Blogs,1,6
+Gaming,1,4
+Comedy,2,2
+Sports,2,2
+People & Blogs,2,3
+Gaming,2,4
+Comedy,3,3
+Science & Technology,3,1
+Sports,3,6
+People & Blogs,3,1
+Gaming,4,2
+Sports,4,1
+News & Politics,4,1
+Comedy,4,6
+People & Blogs,4,1
+Sports,5,1
+Gaming,5,1
+News & Politics,5,1
+Science & Technology,5,6
+Film & Animation,5,2
+Film & Animation,6,9
+Howto & Style,6,2
+Science & Technology,7,3
+Howto & Style,7,2
+Education,7,4
+Autos & Vehicles,7,1
+News & Politics,7,1
+News & Politics,8,3
+Howto & Style,8,5
+Science & Technology,8,1
+Education,8,2
+Pets & Animals,9,1
+News & Politics,9,5
+Nonprofits & Activism,9,1
+Education,9,3
+Howto & Style,9,1
+Pets & Animals,10,1
+Education,10,1
+Howto & Style,10,1
+Autos & Vehicles,10,8
+Autos & Vehicles,11,1
+Education,11,1
+Travel & Events,11,6
+Pets & Animals,11,3
+Pets & Animals,12,3
+Travel & Events,12,5
+Nonprofits & Activism,12,2
+Autos & Vehicles,12,1
+Pets & Animals,13,3
+Nonprofits & Activism,13,8

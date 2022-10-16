@@ -1,0 +1,166 @@
+COUNTRY,CATEGORY_TITLE,TOTAL_CATEGORY_VIDEOS,TOTAL_COUNTRY_VIDEO,PERCENTAGE
+BR,Autos & Vehicles,124,16371,0.76
+CA,Autos & Vehicles,456,20807,2.19
+DE,Autos & Vehicles,1074,25299,4.25
+FR,Autos & Vehicles,630,22096,2.85
+GB,Autos & Vehicles,394,20472,1.92
+IN,Autos & Vehicles,185,29431,0.63
+JP,Autos & Vehicles,270,14816,1.82
+KR,Autos & Vehicles,176,13457,1.31
+MX,Autos & Vehicles,168,15347,1.09
+RU,Autos & Vehicles,3490,63877,5.46
+US,Autos & Vehicles,346,19130,1.81
+BR,Comedy,818,16371,5.00
+CA,Comedy,1298,20807,6.24
+DE,Comedy,765,25299,3.02
+FR,Comedy,1987,22096,8.99
+GB,Comedy,1018,20472,4.97
+IN,Comedy,1813,29431,6.16
+JP,Comedy,818,14816,5.52
+KR,Comedy,757,13457,5.63
+MX,Comedy,698,15347,4.55
+RU,Comedy,3965,63877,6.21
+US,Comedy,1065,19130,5.57
+BR,Education,292,16371,1.78
+CA,Education,574,20807,2.76
+DE,Education,522,25299,2.06
+FR,Education,616,22096,2.79
+GB,Education,442,20472,2.16
+IN,Education,826,29431,2.81
+JP,Education,100,14816,0.67
+KR,Education,302,13457,2.24
+MX,Education,134,15347,0.87
+RU,Education,617,63877,0.97
+US,Education,444,19130,2.32
+BR,Entertainment,4293,16371,26.22
+CA,Entertainment,4313,20807,20.73
+DE,Entertainment,6679,25299,26.40
+FR,Entertainment,5297,22096,23.97
+GB,Entertainment,4511,20472,22.04
+IN,Entertainment,12839,29431,43.62
+JP,Entertainment,4945,14816,33.38
+KR,Entertainment,4625,13457,34.37
+MX,Entertainment,3628,15347,23.64
+RU,Entertainment,9713,63877,15.21
+US,Entertainment,3812,19130,19.93
+BR,Film & Animation,156,16371,0.95
+CA,Film & Animation,676,20807,3.25
+DE,Film & Animation,414,25299,1.64
+FR,Film & Animation,486,22096,2.20
+GB,Film & Animation,527,20472,2.57
+IN,Film & Animation,516,29431,1.75
+JP,Film & Animation,782,14816,5.28
+KR,Film & Animation,471,13457,3.50
+MX,Film & Animation,321,15347,2.09
+RU,Film & Animation,4747,63877,7.43
+US,Film & Animation,716,19130,3.74
+BR,Gaming,1490,16371,9.10
+CA,Gaming,3646,20807,17.52
+DE,Gaming,2516,25299,9.95
+FR,Gaming,2468,22096,11.17
+GB,Gaming,2919,20472,14.26
+IN,Gaming,1334,29431,4.53
+JP,Gaming,1646,14816,11.11
+KR,Gaming,484,13457,3.60
+MX,Gaming,1897,15347,12.36
+RU,Gaming,6120,63877,9.58
+US,Gaming,3384,19130,17.69
+BR,Howto & Style,130,16371,0.79
+CA,Howto & Style,760,20807,3.65
+DE,Howto & Style,1006,25299,3.98
+FR,Howto & Style,884,22096,4.00
+GB,Howto & Style,531,20472,2.59
+IN,Howto & Style,984,29431,3.34
+JP,Howto & Style,637,14816,4.30
+KR,Howto & Style,510,13457,3.79
+MX,Howto & Style,492,15347,3.21
+RU,Howto & Style,1935,63877,3.03
+US,Howto & Style,584,19130,3.05
+BR,Music,3831,16371,23.40
+CA,Music,2746,20807,13.20
+DE,Music,4183,25299,16.53
+FR,Music,4260,22096,19.28
+GB,Music,2545,20472,12.43
+IN,Music,3572,29431,12.14
+JP,Music,1750,14816,11.81
+KR,Music,1402,13457,10.42
+MX,Music,3586,15347,23.37
+RU,Music,4863,63877,7.61
+US,Music,3225,19130,16.86
+BR,News & Politics,262,16371,1.60
+CA,News & Politics,742,20807,3.57
+DE,News & Politics,935,25299,3.70
+FR,News & Politics,678,22096,3.07
+GB,News & Politics,599,20472,2.93
+IN,News & Politics,1169,29431,3.97
+JP,News & Politics,268,14816,1.81
+KR,News & Politics,968,13457,7.19
+MX,News & Politics,648,15347,4.22
+RU,News & Politics,9072,63877,14.20
+US,News & Politics,724,19130,3.78
+BR,Nonprofits & Activism,4,16371,0.02
+CA,Nonprofits & Activism,21,20807,0.10
+DE,Nonprofits & Activism,23,25299,0.09
+FR,Nonprofits & Activism,21,22096,0.10
+GB,Nonprofits & Activism,17,20472,0.08
+IN,Nonprofits & Activism,12,29431,0.04
+JP,Nonprofits & Activism,11,14816,0.07
+KR,Nonprofits & Activism,27,13457,0.20
+MX,Nonprofits & Activism,19,15347,0.12
+RU,Nonprofits & Activism,1387,63877,2.17
+US,Nonprofits & Activism,17,19130,0.09
+BR,People & Blogs,2189,16371,13.37
+CA,People & Blogs,1928,20807,9.27
+DE,People & Blogs,2815,25299,11.13
+FR,People & Blogs,1140,22096,5.16
+GB,People & Blogs,1863,20472,9.10
+IN,People & Blogs,3776,29431,12.83
+JP,People & Blogs,2114,14816,14.27
+KR,People & Blogs,1961,13457,14.57
+MX,People & Blogs,1978,15347,12.89
+RU,People & Blogs,10400,63877,16.28
+US,People & Blogs,1719,19130,8.99
+BR,Pets & Animals,28,16371,0.17
+CA,Pets & Animals,117,20807,0.56
+DE,Pets & Animals,106,25299,0.42
+FR,Pets & Animals,67,22096,0.30
+GB,Pets & Animals,99,20472,0.48
+IN,Pets & Animals,6,29431,0.02
+JP,Pets & Animals,230,14816,1.55
+KR,Pets & Animals,269,13457,2.00
+MX,Pets & Animals,3,15347,0.02
+RU,Pets & Animals,364,63877,0.57
+US,Pets & Animals,91,19130,0.48
+BR,Science & Technology,227,16371,1.39
+CA,Science & Technology,800,20807,3.84
+DE,Science & Technology,932,25299,3.68
+FR,Science & Technology,759,22096,3.44
+GB,Science & Technology,694,20472,3.39
+IN,Science & Technology,1214,29431,4.12
+JP,Science & Technology,67,14816,0.45
+KR,Science & Technology,259,13457,1.92
+MX,Science & Technology,130,15347,0.85
+RU,Science & Technology,1752,63877,2.74
+US,Science & Technology,652,19130,3.41
+BR,Sports,2481,16371,15.15
+CA,Sports,2589,20807,12.44
+DE,Sports,3194,25299,12.63
+FR,Sports,2687,22096,12.16
+GB,Sports,4202,20472,20.53
+IN,Sports,1044,29431,3.55
+JP,Sports,1163,14816,7.85
+KR,Sports,1115,13457,8.29
+MX,Sports,1530,15347,9.97
+RU,Sports,5036,63877,7.88
+US,Sports,2278,19130,11.91
+BR,Travel & Events,53,16371,0.32
+CA,Travel & Events,151,20807,0.73
+DE,Travel & Events,156,25299,0.62
+FR,Travel & Events,130,22096,0.59
+GB,Travel & Events,121,20472,0.59
+IN,Travel & Events,166,29431,0.56
+JP,Travel & Events,30,14816,0.20
+KR,Travel & Events,147,13457,1.09
+MX,Travel & Events,129,15347,0.84
+RU,Travel & Events,439,63877,0.69
+US,Travel & Events,85,19130,0.44
